@@ -1,4 +1,3 @@
 TestForBuildBoard
 =================
-us107
-develop
+us202
